@@ -1,6 +1,3 @@
----
-icon: lucide/rocket
----
 ## About Me
 
 Hi, I'm **Rushikesh Deshmukh** - a cloud infrastructure enthusiast passionate about Infrastructure as Code and DevOps practices.
