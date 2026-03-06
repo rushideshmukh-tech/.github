@@ -72,7 +72,7 @@ Copyright &copy; 2026 Rushikesh Deshmukh. All rights reserved.
 # ----------------------------------------------------------------------------
 [project.theme]
 # change this to "classic" to use the traditional Material for MkDocs look.
-#variant = "comfortable"
+variant = "classic"
 favicon = "images/fevicon.png"
 
 # Zensical allows you to override specific blocks, partials, or whole
