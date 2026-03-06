@@ -1,5 +1,17 @@
 ---
 icon: lucide/chevrons-left-right-ellipsis
+date :
+    created: 2026-03-01
+    updated: 2026-03-01
+categories: 
+    - Tech
+tags:
+    - networking
+    - routing
+authors: 
+    -  rushikesh
+slug: azure-vnet
+draft: false
 ---
 
 # Azure Virtual Networks

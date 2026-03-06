@@ -1,6 +1,19 @@
 ---
 icon: lucide/chevrons-left-right-ellipsis
 
+date :
+    created: 2026-03-01
+    updated: 2026-03-01
+categories: 
+    - Tech
+tags:
+    - networking
+    - routing
+    - vwan
+authors: 
+    -  rushikesh
+slug: azure-vwan
+draft: false
 ---
 
 # Azure Virtual WAN 
