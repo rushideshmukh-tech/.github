@@ -1,15 +1,5 @@
 ---
 icon: lucide/scroll
-date :
-    created: 2023-06-01
-    updated: 2023-06-01
-categories: 
-    - Tech
-tags:
-    - Introduction
-authors: 
-    -  rushikesh
-slug: Home
 
 ---
 # Home
