@@ -49,9 +49,13 @@ Copyright &copy; 2026 Rushikesh Deshmukh. All rights reserved.
    { "About" = "about.md" },
    { "Azure" = [
         "azure/index.md",
-        "azure/monitoring/index.md",
-        "azure/network/index.md",
-        "azure/compute/index.md",
+        { "Monitoring" = ["azure/monitoring/index.md"] },
+        { "Network" = [
+            "azure/network/index.md",
+            "azure/network/vnet.md",
+            "azure/network/routing.md",
+        ]},
+        { "Compute" = ["azure/compute/index.md"] },
   ]},
  ]
 
