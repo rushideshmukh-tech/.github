@@ -48,7 +48,6 @@ Copyright &copy; 2026 Rushikesh Deshmukh. All rights reserved.
    { "Home" = "index.md" },
    { "About" = "about.md" },
    { "Azure" = [
-        "azure/index.md",
         { "Monitoring" = ["azure/monitoring/index.md"] },
         { "Network" = [ "azure/network/*.md",
         ]},
