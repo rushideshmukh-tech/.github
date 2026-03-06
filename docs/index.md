@@ -12,8 +12,9 @@ authors:
 slug: Home
 
 ---
+# Home
 
-# Welcome to De-Code Cloud with Rushikesh
+## Welcome to De-Code Cloud with Rushikesh
 
 This site shares practical resources, tutorials, and field-tested best practices to help you build reliable Infrastructure as Code (IaC) using Azure Bicep and Terraform.
 
