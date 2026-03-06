@@ -2,9 +2,11 @@
 icon: lucide/scroll
 ---
 
-# Welcome to Cloud De-Coder
+# Welcome to De-Code Cloud with Rushikesh
 
-Here you will find a wealth of resources, tutorials, and best practices to help you master the art of Infrastructure as Code (IaC) with Azure Bicep and Terraform. Whether you're a beginner looking to get started or an experienced practitioner seeking advanced techniques, this site has something for everyone.
+This site shares practical resources, tutorials, and field-tested best practices to help you build reliable Infrastructure as Code (IaC) using Azure Bicep and Terraform.
+
+Whether you are just getting started or already working in production cloud environments, you will find clear guidance, real examples, and actionable patterns.
 
 ## What You'll Learn
 
@@ -14,7 +16,7 @@ Here you will find a wealth of resources, tutorials, and best practices to help 
   
     ---
 
-    Deep dive into Azure's cloud platform, learning how to design Azure infrastructure and clarify concepts on Azure services.
+    Build a strong foundation on Azure services, architecture patterns, and core cloud concepts needed for real-world infrastructure design.
 
     [:octicons-arrow-right-24: Get started with Azure](azure/getting-started.md)
 </div>
@@ -23,7 +25,7 @@ Here you will find a wealth of resources, tutorials, and best practices to help 
 
     ---
 
-    Learn Azure's native Infrastructure as Code language with domain-specific syntax designed for Azure deployments.
+    Learn Azure's native Infrastructure as Code language with concise, readable syntax designed for Azure-first deployments.
 
     [:octicons-arrow-right-24: Get started with Bicep](bicep/getting-started.md)
 
@@ -31,11 +33,11 @@ Here you will find a wealth of resources, tutorials, and best practices to help 
 
     ---
 
-    Master HashiCorp's multi-cloud IaC tool with HCL syntax for managing infrastructure across any cloud provider.
+    Master HashiCorp's multi-cloud IaC tool and use HCL to provision and manage infrastructure across providers.
 
     [:octicons-arrow-right-24: Get started with Terraform](terraform/getting-started.md)
 
 </div>
 
 !!! note "Coming Soon!"
-    Will add more contents and Topics in the future. So Stay tuned!
+    More hands-on guides, reference architectures, and advanced IaC topics are on the way. Stay tuned.

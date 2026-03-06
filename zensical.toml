@@ -11,14 +11,14 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "Cloud De-Coders"
+site_name = "De-Code Cloud with Rushikesh"
 repo_url = "https://github.com/rushideshmukh-tech"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "Cloud De-Coders is a community-driven platform for cloud enthusiasts."
+site_description = "De-Code Cloud with Rushikesh is a community-driven platform for cloud enthusiasts."
 
 # The site_author attribute. This is used in the HTML head element.
 #
@@ -27,8 +27,7 @@ site_author = "Rushikesh Deshmukh"
 
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
-# Read more: https://zensical.org/docs/setup/basics/#site_url
-#site_url = "https://github.com/rushideshmukh-tech/rushideshmukh-tech"
+site_url = "https://rushideshmukh-tech.github.io/.github/"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
