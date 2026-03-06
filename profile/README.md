@@ -18,28 +18,6 @@ This site is my knowledge hub for Infrastructure as Code practitioners. Here you
 - **Examples**: Real-world code examples and templates
 - **Comparisons**: Side-by-side insights to help you choose the right tool
 
-## Connect With Me
-
-<div class="grid cards" markdown>
-
-- :fontawesome-brands-github:{ .lg .middle } **GitHub**
-
-    ---
-
-    Check out my projects and contributions
-
-    [:octicons-arrow-right-24: @rushideshmukh-tech](https://github.com/rushideshmukh-tech)
-
-- :fontawesome-brands-linkedin:{ .lg .middle } **LinkedIn**
-
-    ---
-
-    Connect with me professionally
-
-    [:octicons-arrow-right-24: LinkedIn Profile](https://linkedin.com)
-
-</div>
-
 !!! quote "Philosophy"
 
     "Infrastructure as Code is not just automation. It is treating infrastructure with the same discipline, quality, and version control standards as application code."
