@@ -50,10 +50,7 @@ Copyright &copy; 2026 Rushikesh Deshmukh. All rights reserved.
    { "Azure" = [
         "azure/index.md",
         { "Monitoring" = ["azure/monitoring/index.md"] },
-        { "Network" = [
-            "azure/network/index.md",
-            "azure/network/vnet.md",
-            "azure/network/routing.md",
+        { "Network" = [ "azure/network/*.md",
         ]},
         { "Compute" = ["azure/compute/index.md"] },
   ]},
