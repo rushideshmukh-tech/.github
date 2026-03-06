@@ -1,21 +1,12 @@
 ---
 icon: lucide/chevrons-left-right-ellipsis
-
-date :
-    created: 2026-03-01
-    updated: 2026-03-01
-categories: 
-    - Tech
+description: Overview of Azure Virtual WAN networking service
 tags:
     - networking
     - routing
     - vwan
-authors: 
-    -  rushikesh
-slug: azure-vwan
-draft: false
 ---
 
-# Azure Virtual WAN 
+# Azure Virtual WAN
 
-Here you will find a wealth of resources, tutorials, and best practices to help you master the art of Infrastructure as Code (IaC) with Azure Bicep and Terraform. Whether you're a beginner looking to get started or an experienced practitioner seeking advanced techniques, this site has something for everyone.
+Azure Virtual WAN is a networking service that brings together connectivity, routing, and security into a single operational interface. It simplifies hub-and-spoke architectures at scale and enables transit connectivity across VNets, branches, and remote users.
