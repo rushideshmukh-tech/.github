@@ -2,7 +2,17 @@ site_name: Cloud De-coded with Rushikesh
 site_description: A Blog about Cloud Computing and Technology.
 site_url: https://sitename.example
 repo_name: https://github.com/rushideshmukh-tech/.github
+
 theme:
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.annotate
+    - content.code.copy
   favicon: images/logo.png
   logo: images/logo.png
   icon:
@@ -37,7 +47,7 @@ plugins:
         - Life
       post_url_format: "{slug}"
   - tags:
-      tags_file: "tags.md"
+      tags_file: "blog/tags.md"
   - rss:
       match_path: "blog/posts/*"
       pretty_print: true
