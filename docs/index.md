@@ -16,14 +16,13 @@ Whether you are just getting started or already working in production cloud envi
 <div class="grid cards" markdown>
 
 - :material-microsoft-azure:{ .lg .middle } **Azure**
-  
+
     ---
 
     Build a strong foundation on Azure services, architecture patterns, and core cloud concepts needed for real-world infrastructure design.
 
     [:octicons-arrow-right-24: Get started with Azure](azure/getting-started.md)
-</div>
-<div class="grid cards" markdown>
+
 - :material-microsoft-azure:{ .lg .middle } **Azure Bicep**
 
     ---
