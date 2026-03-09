@@ -1,7 +1,7 @@
 ---
 title: Home
 description: Welcome to De-Code Cloud with Rushikesh - your practical guide to Azure, Bicep, and Terraform for real-world Infrastructure as Code.
-
+icon : material/home
 ---
 # Home
 
