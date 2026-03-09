@@ -14,7 +14,7 @@ slug: policy-as-code
 
 > A comprehensive guide to implementing Policy as Code using [Checkov](https://www.checkov.io/) for Azure infrastructure, including custom policies, exceptions, CI/CD pipelines, and code examples.
 
-<!--more-->
+<!-- more -->
 
 ## 📋 Table of Contents
 
