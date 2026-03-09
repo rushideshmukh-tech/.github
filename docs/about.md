@@ -1,5 +1,6 @@
 ---
-icon: lucide/rocket
+title: About
+description: Learn more about me and the purpose of this site focused on Infrastructure as Code.
 ---
 ## About Me
 

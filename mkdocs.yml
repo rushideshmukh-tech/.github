@@ -1,0 +1,59 @@
+site_name: Cloud De-coded with Rushikesh
+site_description: A Blog about Cloud Computing and Technology.
+site_url: https://sitename.example
+repo_name: https://github.com/rushideshmukh-tech/.github
+theme:
+  icon:
+    repo: fontawesome/brands/github
+  name: material
+  palette:
+    # Dark Mode
+    - scheme: slate
+      primary: blue grey
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+    # Light Mode
+    - scheme: default
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+plugins:
+  - search
+  - blog:
+      enabled: true
+      blog_dir: blog
+      authors_file: .authors.yml
+      blog_toc: false
+      post_dir: "{blog}/posts"
+      categories_allowed:
+        - Technology
+        - Life
+      post_url_format: "{slug}"
+  - tags:
+      tags_file: "tags.md"
+  - rss:
+      match_path: "blog/posts/*"
+      pretty_print: true
+      date_from_meta:
+        as_creation: date.created
+        as_update: date.updated
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/rushideshmukh-tech
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/rushi-deshmukh/
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+
+hooks:
+  - hooks/socialmedia.py

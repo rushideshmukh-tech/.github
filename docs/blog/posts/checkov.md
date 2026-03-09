@@ -1,8 +1,20 @@
+---
+date:
+    created: 2024-06-01
+    updated: 2024-06-01
+categories:
+    - Technology
+tags:
+    - Cloud Computing
+authors:
+    - rushikesh
+slug: policy-as-code
+---
 # 🛡️ Policy as Code with Checkov — Azure Infrastructure Security
 
 > A comprehensive guide to implementing Policy as Code using [Checkov](https://www.checkov.io/) for Azure infrastructure, including custom policies, exceptions, CI/CD pipelines, and code examples.
 
----
+<!--more-->
 
 ## 📋 Table of Contents
 
