@@ -42,17 +42,7 @@ plugins:
       date_from_meta:
         as_creation: date.created
         as_update: date.updated
-  - git-committers:
-      enabled: true
-      repository: rushideshmukh-tech/.github
-      branch: main
-      token: !ENV GIT_TOKEN
 
-  - git-version:
-      type: date
-      fallback_to_build_time: false
-      enable_creation_date: true
-      enabled: true
 
 extra:
   social:
