@@ -1,7 +1,7 @@
 ---
 title: About
 description: Learn more about me and the purpose of this site focused on Infrastructure as Code.
-icon : material/account
+icon: material/account
 ---
 ## About Me
 
