@@ -1,8 +1,4 @@
----
-title: About
-description: Learn more about me and the purpose of this site focused on Infrastructure as Code.
-icon: material/account
----
+
 ## About Me
 
 Hi, I'm **Rushikesh Deshmukh** - a cloud infrastructure engineer focused on Infrastructure as Code, automation, and DevOps practices.
