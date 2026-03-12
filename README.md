@@ -1,7 +1,7 @@
 
 ## About Me
 
-Hi, I'm **Rushikesh Deshmukh** - a cloud infrastructure engineer focused on Infrastructure as Code, automation, and DevOps practices.
+Hi, I'm **Rushikesh Deshmukh** - a Azure Cloud Architect focused on Infrastructure as Code, automation, and DevOps practices.
 
 ### What I Do
 
